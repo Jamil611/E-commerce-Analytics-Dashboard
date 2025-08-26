@@ -81,7 +81,7 @@ Here are sample previews of the **interactive dashboards** built in Power BI:
    - Create seasonal collections to maximize holiday cohorts.
 
 ## Usage
-1. Clone the repository: `git clone <repository-url>`.
+1. Clone the repository: `git clone <https://github.com/Jamil611/E-commerce-Analytics-Dashboard>`.
 2. Import the `.sql` files into a SQL database (e.g., MySQL, PostgreSQL) to replicate the data processing steps.
 3. Open `online_retail_II_dashboards.pbix` in Power BI to explore the interactive dashboard.
 4. Review `Insights_and_Recommendations.pdf` for detailed findings and strategic guidance.
