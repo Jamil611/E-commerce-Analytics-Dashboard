@@ -28,8 +28,8 @@ The objective of this project was to perform an **E-Commerce Customer Analysis**
 - **`online_retail_II_merged_cleaned.csv` (81.28MB)**: Processed and merged dataset after cleaning.
 
 ## Dataset Info
-The analysis is based on the **Online Retail II** dataset, available at [https://archive.ics.uci.edu/dataset/502/online+retail+ii](https://archive.ics.uci.edu/dataset/502/online+retail+ii). This dataset contains transactional data from an online retail store between 2009 and 2011, including:
-- **Source**: UCI Machine Learning Repository.
+The analysis is based on the **Online Retail II** dataset. This dataset contains transactional data from an online retail store between 2009 and 2011, including:
+- **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/502/online+retail+ii).
 - **Time Frame**: 2009–2011.
 - **Content**: Records of customer transactions, including invoice numbers, stock codes, descriptions, quantities, invoice dates, unit prices, customer IDs, and country information.
 - **Size**: Approximately 1M+ records across multiple CSV files.
